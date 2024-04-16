@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokemon App</string>
+    <string name="home">Inicio</string>
+    <string name="pokemon_not_find">Pokemon no encontrado</string>
+    <string name="title_home">Vamos a encontrar a ese pokemon</string>
+    <string name="save">Guardar</string>
+    <string name="Info">Información</string>
+    <string name="find_pokemon">Buscar un pokemon</string>
+    <string name="hint_who_is_this_pokemon">Quien es este pokemon</string>
+    <string name="pokemon_saved">¡Pokemon Guardado!</string>
+    <string name="pokemon_limit_saved">Recuerda que solo puedes guardar hasta 10 pokemones</string>
+    <string name="my_pokemons">Mis Pokemones</string>
+
+</resources>

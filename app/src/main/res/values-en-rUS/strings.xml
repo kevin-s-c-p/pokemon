@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokemon App</string>
+    <string name="home">Home</string>
+    <string name="pokemon_not_find">Pokemon not find</string>
+    <string name="title_home">Let´s find that pokemon</string>
+    <string name="save">Save</string>
+    <string name="Info">Information</string>
+    <string name="find_pokemon">Find new pokemon</string>
+    <string name="hint_who_is_this_pokemon">Who is this pokemon</string>
+    <string name="pokemon_saved">Pokemon saved!</string>
+    <string name="pokemon_limit_saved">Remember you only save 10 pokemons</string>
+    <string name="my_pokemons">My Pokemon\'s</string>
+</resources>
